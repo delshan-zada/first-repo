@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+ 
+}
+.jumbotron{
+     
+
+    background-blend-mode: color-burn;
+    background-position: center;
+    margin-top: 100px;
+    width:100vw;
+    height: 300px;
+    background-image: url('ttfft.jpg') ;
+
+}
+.input-group{
+    padding: 15px;
+	
+}
+
+.form-control ,textarea{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin:7px 5px;
+}
+.nana{
+    padding-left: 80;
+}
+#dello{
+    padding-left: 120px;
+}
